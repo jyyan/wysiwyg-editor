@@ -199,7 +199,7 @@
       'Subscript': '下標',
       'Superscript': '上標',
       // Full screen
-      'Fullscreen': '全屏',
+      'Fullscreen': '全螢幕',
       // Horizontal line
       'Insert Horizontal Line': '插入水平線',
       // Clear formatting
@@ -215,8 +215,8 @@
       'Code View': 'HTML 原始碼',
       // Quote
       'Quote': '引用',
-      'Increase': "\u7E2E\u6392",
-      'Decrease': "\u53BB\u9664\u7E2E\u6392",
+      'Increase': "增加縮排",
+      'Decrease': "減少縮排",
       // Quick Insert
       'Quick Insert': '快速插入',
       // Spcial Characters
@@ -248,7 +248,7 @@
       'Image / Video': '圖像/影片',
       'Resize larger': '調整大小更大',
       'Resize smaller': '調整大小更小',
-      'Table': '表',
+      'Table': '表格',
       'Select table cell': '選擇表單元格',
       'Extend selection one cell': '增加選中的單元格',
       'Extend selection one row': '增加選中的行',
@@ -259,17 +259,17 @@
       'Embed URL': '嵌入網址',
       'Paste in a URL to embed': '貼上要嵌入的網址',
       // Word Paste.
-      'The pasted content is coming from a Microsoft Word document. Do you want to keep the format or clean it up?': '粘貼的內容來自微軟Word文檔。你想保留格式還是清理它？',
-      'Keep': '保留',
-      'Clean': '清潔',
+      'The pasted content is coming from a Microsoft Word document. Do you want to keep the format or clean it up?': '複製貼上的內容來自微軟Word文件。你想保留格式還是移除它？',
+      'Keep': '保留樣式',
+      'Clean': '移除樣式',
       'Word Paste Detected': '檢測到貼上自 Word 的內容',
       // Character Counter
-      'Characters': '人物',
+      'Characters': '總字數',
       // More Buttons
       'More Text': '更多文字',
       'More Paragraph': '更多段落',
-      'More Rich': '更多豐富',
-      'More Misc': '更多雜項'
+      'More Rich': '更多元件',
+      'More Misc': '更多選項'
     },
     direction: 'ltr'
   };
